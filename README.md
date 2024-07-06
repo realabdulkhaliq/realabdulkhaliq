@@ -5,18 +5,31 @@
 ### Solopreneur | Cloud Native Applied Generative AI Engineer (GenEng) | WordPress, Headless CMS & Next JS Modern App Developer & Architect | Boost Businesses by Developing Blazing Fast 🚀 Modern & Responsive ⏩ Apps
 
 
-I am Abdul Khaliq a professional WordPress & Shopify developer passionate to provide quality services. I offer a complete WordPress solution including development, optimization, responsiveness, bug fixing, WP Migration, theme installation, and customization. I also develop a profitable, Speed & SEO optimized, and user-friendly woo-commerce, e-commerce, and Shopify store and can boost your business through Digital Marketing.
+I am Abdul Khaliq, a Cloud Native Applied Generative AI Engineer (GenEng) with extensive certifications and expertise. I hold the **Microsoft Certified: Azure AI Fundamentals** certification, along with **Cisco Netacad Cybersecurity** and **Python** certifications, and I am also **GitHub Foundation Certified**. Currently, I focus on leveraging Python and FastAPI with Docker and Azure Kubernetes Service to integrate cutting-edge artificial intelligence features into applications.
 
-I have an exquisite blend of experience in;
-Front End Designing & Development Using TypeScript, Next.js 13, Tailwind CSS, Chakra UI, Material UI, Bootstrap.
-SEO - Search Engine Optimization, Digital Marketing, Google Ads, Google My Business.
-Backend Development Using TypeScript, Next.js 13, and React.js.
+I am also a professional **Modern Application Developer & Architect** and a passionate **WordPress & Shopify Developer** dedicated to providing quality services. I offer solutions to help businesses grow and become more profitable.
 
-## GitHub Foundation Certified
+As a Modern App Developer, I excel in front-end design and development using *Next.js, Tailwind CSS, Bootstrap, and Chakra UI*. I can further enhance your business through targeted digital marketing strategies.
+
+My comprehensive WordPress services include development, optimization, responsiveness, bug fixing, WP migration, theme installation, and customization. Additionally, I specialize in creating profitable, high-speed, SEO-optimized, and user-friendly WooCommerce, e-commerce, and **Shopify Stores**.
+
+
+My diverse skill set includes:
+
+- **Front-End Design & Development**: Proficient in TypeScript, Next.js, Tailwind CSS, Chakra UI, Material UI, and Bootstrap.
+- **SEO and Digital Marketing**: Expertise in Search Engine Optimization, Google Ads, and Google My Business.
+- **Back-End Development**: Skilled in Python, FastAPI, TypeScript, Next.js, and React.js.
+
+
+## GitHub Foundation Certification
 ![github-foundations (1)](https://github.com/realabdulkhaliq/realabdulkhaliq/assets/26642972/d02c0a39-bcaa-4be9-beb9-3c55fccd1f56)
-
 <br />
 https://www.credly.com/badges/7ff1c853-9c7a-4df0-9798-ee2f529522d5/public_url
+## Microsoft Certified: Azure AI Fundamentals
+<img width="428" alt="AI - 900 Certificate" src="https://github.com/realabdulkhaliq/realabdulkhaliq/assets/26642972/d4b0d189-707a-4cc8-8108-a4b4c97d3fd5">
+<br />
+https://learn.microsoft.com/api/credentials/share/en-us/AbdulKhaliq/783CD504306D162F?sharingId=AC95975E94E7442A
+
 
 [GitHub Developer Program](https://docs.github.com/en/rest/guides)
 

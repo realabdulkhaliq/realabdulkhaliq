@@ -9,7 +9,7 @@ I am Abdul Khaliq, a Cloud Native Applied Generative AI Engineer (GenEng) with e
 
 I am also a professional **Modern Application Developer & Architect** and a passionate **WordPress & Shopify Developer** dedicated to providing quality services. I offer solutions to help businesses grow and become more profitable.
 
-As a Modern App Developer, I excel in front-end design and development using *Next.js, Tailwind CSS, Bootstrap, and Chakra UI*. I can further enhance your business through targeted digital marketing strategies.
+As a __Modern App Developer__, I excel in front-end design and development using Next.js, Tailwind CSS, Bootstrap, and Chakra UI. I also have extensive experience with _Headless CMS_, integrating it seamlessly with Next.js to build modern, scalable web applications. I can further enhance your business through targeted digital marketing strategies.
 
 My comprehensive WordPress services include development, optimization, responsiveness, bug fixing, WP migration, theme installation, and customization. Additionally, I specialize in creating profitable, high-speed, SEO-optimized, and user-friendly WooCommerce, e-commerce, and **Shopify Stores**.
 
@@ -19,6 +19,7 @@ My diverse skill set includes:
 - **Front-End Design & Development**: Proficient in TypeScript, Next.js, Tailwind CSS, Chakra UI, Material UI, and Bootstrap.
 - **SEO and Digital Marketing**: Expertise in Search Engine Optimization, Google Ads, and Google My Business.
 - **Back-End Development**: Skilled in Python, FastAPI, TypeScript, Next.js, and React.js.
+- **Headless CMS**: Contentful, Sanity, and Strapi.
 
 
 ## GitHub Foundation Certification

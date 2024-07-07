@@ -35,7 +35,7 @@ https://learn.microsoft.com/api/credentials/share/en-us/AbdulKhaliq/783CD504306D
 [GitHub Developer Program](https://docs.github.com/en/rest/guides)
 
 ### Skills
-<div align="left" dir="auto">
+<div align="left" dir="auto" style="display: flex; gap: 40px;">
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" style="max-width: 100%; padding:8px;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" style="max-width: 100%; padding:8px;"></a>

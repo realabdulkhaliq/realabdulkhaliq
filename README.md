@@ -23,7 +23,7 @@ My diverse skill set includes:
 - **Artificial Intelligence**: Generative AI, OpenAI API, Custom GPTs Development, OpenAPI Specification.
 - **Cloud Native Development**: Azure AI Certified, Docker, Docker Compose, Kubernetes, Serverless Containers, Terraform, Kafka.
 - **SEO and Digital Marketing**: Expertise in Search Engine Optimization, Google Ads, and Google My Business.
-- **Database**: PostgreSQL, Neon DB, MySQL, SqlAlchemy, ORM
+- **Database**: PostgreSQL, Neon DB, MySQL, SqlAlchemy, NoSQL, ORM
 
 
 ## GitHub Foundation Certification

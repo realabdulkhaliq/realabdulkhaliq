@@ -20,7 +20,7 @@ My diverse skill set includes:
 - **Back-End Development**: Skilled in Python, FastAPI, TypeScript, Next.js, and React.js, GitHub Actions.
 - **Headless CMS**: Contentful, Sanity, and Strapi.
 - **CMS**: WordPress, WP Theme Development, Shopify.
-- **Artificial Intelligence**: Generative AI, OpenAI API, Custom GPTs Development, OpenAPI Specification.
+- **Artificial Intelligence**: Generative AI, OpenAI API, Custom GPTs Development, OpenAI Actions Development, OpenAPI Specification.
 - **Cloud Native Development**: Azure AI Certified, Docker, Docker Compose, Kubernetes, Serverless Containers, Terraform, Kafka.
 - **SEO and Digital Marketing**: Expertise in Search Engine Optimization, Google Ads, and Google My Business.
 - **Database**: PostgreSQL, Neon DB, MySQL, SqlAlchemy, NoSQL, ORM

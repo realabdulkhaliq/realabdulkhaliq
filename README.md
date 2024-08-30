@@ -33,6 +33,10 @@ https://learn.microsoft.com/api/credentials/share/en-us/AbdulKhaliq/783CD504306D
 ## GitHub Certified: Cloud Security Engineer & GitHub Foundations
 https://www.credly.com/users/realabdulkhaliq
 
+![github advanced security](https://github.com/user-attachments/assets/923174b4-6f42-4d44-ba6f-8d768d564268)
+![github foundation](https://github.com/user-attachments/assets/054b97e2-9028-4f80-92bc-efe8a6cd5336)
+
+
 ![github advanced security](https://github.com/user-attachments/assets/e3fd325f-d0d7-4431-beb4-fab64dd543ed)
 
 ![github foundation](https://github.com/user-attachments/assets/9b51a4c7-80ad-4152-92f5-97cef82a4704)

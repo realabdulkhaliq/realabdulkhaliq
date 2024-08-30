@@ -25,16 +25,17 @@ My diverse skill set includes:
 - **SEO and Digital Marketing**: Expertise in Search Engine Optimization, Google Ads, and Google My Business.
 - **Database**: PostgreSQL, Neon DB, MySQL, SqlAlchemy, NoSQL, ORM
 
-
-## GitHub Foundation Certification
-![github-foundations (1)](https://github.com/realabdulkhaliq/realabdulkhaliq/assets/26642972/d02c0a39-bcaa-4be9-beb9-3c55fccd1f56)
-<br />
-https://www.credly.com/badges/7ff1c853-9c7a-4df0-9798-ee2f529522d5/public_url
 ## Microsoft Certified: Azure AI Fundamentals
 <img width="428" alt="AI - 900 Certificate" src="https://github.com/realabdulkhaliq/realabdulkhaliq/assets/26642972/d4b0d189-707a-4cc8-8108-a4b4c97d3fd5">
 <br />
 https://learn.microsoft.com/api/credentials/share/en-us/AbdulKhaliq/783CD504306D162F?sharingId=AC95975E94E7442A
 
+## GitHub Certified: Cloud Security Engineer & GitHub Foundations
+https://www.credly.com/users/realabdulkhaliq
+
+![github advanced security](https://github.com/user-attachments/assets/e3fd325f-d0d7-4431-beb4-fab64dd543ed)
+
+![github foundation](https://github.com/user-attachments/assets/9b51a4c7-80ad-4152-92f5-97cef82a4704)
 
 [GitHub Developer Program](https://docs.github.com/en/rest/guides)
 

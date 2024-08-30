@@ -37,11 +37,7 @@ https://www.credly.com/users/realabdulkhaliq
 ![github foundation](https://github.com/user-attachments/assets/054b97e2-9028-4f80-92bc-efe8a6cd5336)
 
 
-![github advanced security](https://github.com/user-attachments/assets/e3fd325f-d0d7-4431-beb4-fab64dd543ed)
-
-![github foundation](https://github.com/user-attachments/assets/9b51a4c7-80ad-4152-92f5-97cef82a4704)
-
-[GitHub Developer Program](https://docs.github.com/en/rest/guides)
+Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guides)
 
 ### Skills
 <div align="left" dir="auto">

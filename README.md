@@ -23,7 +23,7 @@ My diverse skill set includes:
 - **Artificial Intelligence**: Generative AI, OpenAI API, Custom GPTs Development, OpenAI Actions Development, OpenAPI Specification.
 - **Cloud Native Development**: Azure AI Certified, Docker, Docker Compose, Kubernetes, Serverless Containers, Terraform, Kafka.
 - **SEO and Digital Marketing**: Expertise in Search Engine Optimization, Google Ads, and Google My Business.
-- **Database**: PostgreSQL, Neon DB, MySQL, SqlAlchemy, NoSQL, ORM
+- **Database**: PostgreSQL, Neon DB, MySQL, SqlAlchemy, SQL Model, NoSQL, ORM
 
 ## Microsoft Certified: Azure AI Fundamentals
 <img width="428" alt="AI - 900 Certificate" src="https://github.com/realabdulkhaliq/realabdulkhaliq/assets/26642972/d4b0d189-707a-4cc8-8108-a4b4c97d3fd5">

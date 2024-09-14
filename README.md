@@ -13,7 +13,7 @@ As a __Modern App Developer__, I excel in front-end design and development using
 
 My comprehensive WordPress services include development, optimization, responsiveness, bug fixing, WP migration, theme installation, and customization. Additionally, I specialize in creating profitable, high-speed, SEO-optimized, and user-friendly WooCommerce, e-commerce, and **Shopify Stores**.
 
-
+#
 My diverse skill set includes:
 
 - **Front-End Design & Development**: Proficient in TypeScript, Next.js, Tailwind CSS, Chakra UI, Material UI, and Bootstrap.
@@ -37,7 +37,7 @@ https://www.credly.com/users/realabdulkhaliq
 ![github foundation](https://github.com/user-attachments/assets/abfc5fc2-8ff3-4ebd-8145-251646f0c3b3)
 
 Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guides)
-
+#
 ### Skills
 <div align="left" dir="auto">
 

@@ -100,5 +100,5 @@ Participated in [GitHub Developer Program](https://docs.github.com/en/rest/guide
 
 # 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realabdulkhaliq&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=10&theme=dracula&hide_border=false&order=2" height="240" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realabdulkhaliq&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=dracula&hide_border=false&order=2" height="280" alt="languages graph"  />
 </div>

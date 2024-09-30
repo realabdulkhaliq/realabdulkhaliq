@@ -24,6 +24,17 @@ My diverse skill set includes:
 - **Cloud Native Development**: Azure AI Certified, Docker, Docker Compose, Kubernetes, Serverless Containers, Terraform, Kafka.
 - **SEO and Digital Marketing**: Expertise in Search Engine Optimization, Google Ads, and Google My Business.
 - **Database**: PostgreSQL, Neon DB, MySQL, SqlAlchemy, SQL Model, NoSQL, ORM
+#
+## My Path to Becoming an AI Engineer: My Personal Checklist
+- [x] Computer Science Fundamentals
+- [x] Beginners Python
+- [x] Advanced Python
+- [x] Numpy, Pandas, Data Visualization
+- [x] Version Control System (Git, Github)
+- [x] ML Ops
+- [x] Cloud Fundamentals (Azure)
+- [x] Math & Statistics for AI
+- [x] Dockor & Kubernetes 
 
 ## Microsoft Certified: Azure AI Fundamentals
 <img width="428" alt="AI - 900 Certificate" src="https://github.com/realabdulkhaliq/realabdulkhaliq/assets/26642972/d4b0d189-707a-4cc8-8108-a4b4c97d3fd5">
